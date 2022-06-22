@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 </p>
  
 
-# backjoon-coding-test
+# backjoon-coding-test(2022.06.17 시작)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjim1324)](https://solved.ac/kkjim1324)
