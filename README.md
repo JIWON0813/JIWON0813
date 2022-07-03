@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <h1>자기소개</h1>
 
-<a href="https://github.com/JIWON0813"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIWON0813&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-
 # 기술스택
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
