@@ -42,3 +42,10 @@ Here are some ideas to get you started:
 # backjoon-coding-test(2022.06.17 시작)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjim1324)](https://solved.ac/kkjim1324)
+
+#진행중인 프로젝트
+
+<h3>PPB</h3>
+github - https://github.com/yeojin822/PortfolioPageBuilder_bnd (추후 fork 예정)
+backend notion link - https://yeojinlee.notion.site/yeojinlee/Project-Builder-69039c7b829f490a92c30d8dbb9cec76
+
