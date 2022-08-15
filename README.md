@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 </p>
  
 
-# backjoon-coding-test(2022.06.17 시작)
+<!-- # backjoon-coding-test(2022.06.17 시작) -->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjim1324)](https://solved.ac/kkjim1324)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjim1324)](https://solved.ac/kkjim1324) -->
 
 
 # 진행중인 프로젝트
