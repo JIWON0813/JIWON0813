@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 <h3>PPB</h3>
 github - https://github.com/yeojin822/PortfolioPageBuilder_bnd (추후 fork 예정)<br>
 backend notion link - https://yeojinlee.notion.site/yeojinlee/Project-Builder-69039c7b829f490a92c30d8dbb9cec76<br>
-Jira - https://portfoliobuilderteam.atlassian.net/jira/software/projects/IALY/boards/1
+Jira - https://portfoliobuilderteam.atlassian.net/jira/software/projects/IALY/boards/1 (공개용 X)
