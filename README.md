@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjim1324)](https://solved.ac/kkjim1324) -->
 
+# 프로그래머스 이력서
+https://career.programmers.co.kr/pr/kkjim1324_8063
 
 # 진행중인 프로젝트
 
