@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!-- https://career.programmers.co.kr/pr/kkjim1324_8063 -->
 
 Notion(개인 공부, 이력서, 프로젝트 정리)  
-https://woolen-expert-af5.notion.site/da627cab5ff644b6985ad51b85f57ead  
+https://woolen-expert-af5.notion.site/Backend-Developer-ad18ebb0b83b41799f6db4f50ef41899  
   
 # 진행중인 프로젝트
 
