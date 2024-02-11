@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>자기소개</h1>
-
 # 기술스택
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -29,10 +27,6 @@ Here are some ideas to get you started:
   <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" />
 </p>
  
-
-<!-- # backjoon-coding-test(2022.06.17 시작) -->
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjim1324)](https://solved.ac/kkjim1324) -->
 
 <!-- # 프로그래머스 이력서 -->
 <!-- https://career.programmers.co.kr/pr/kkjim1324_8063 -->
