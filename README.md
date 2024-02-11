@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 
 ## Notion(개인 공부, 이력서, 프로젝트 정리)  
 https://woolen-expert-af5.notion.site/Backend-Developer-ad18ebb0b83b41799f6db4f50ef41899  
+
+## 티스토리
+https://jiwon0813.tistory.com/
