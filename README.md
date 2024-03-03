@@ -1,17 +1,3 @@
-<!--
-**JIWON0813/JIWON0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 기술스택
 <p>
@@ -31,8 +17,6 @@ Here are some ideas to get you started:
 <!-- # 프로그래머스 이력서 -->
 <!-- https://career.programmers.co.kr/pr/kkjim1324_8063 -->
 
-## Notion(개인 공부, 이력서, 프로젝트 정리)  
-https://woolen-expert-af5.notion.site/Backend-Developer-ad18ebb0b83b41799f6db4f50ef41899  
-
-## 티스토리
-https://jiwon0813.tistory.com/
+## 링크 정리
+- [티스토리](https://jiwon0813.tistory.com/)
+- [노션](https://woolen-expert-af5.notion.site/Backend-Developer-ad18ebb0b83b41799f6db4f50ef41899)
